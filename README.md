@@ -17,4 +17,4 @@ def funkcje_w_pythone():
   * nawet te
   * zagnieżdżone
   
-  Niestety githubowego ~~wiki~~ nie uda się uruchomić, ale taka forma dokumentacji będzie wystarczająca.
+Niestety githubowego ~~wiki~~ nie uda się uruchomić, ale taka forma dokumentacji będzie wystarczająca.
