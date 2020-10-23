@@ -1,4 +1,6 @@
-# velma_test
+# Przykładowa dokumentacja
+
+**Autor**: Dawid Seredyński
 
 *Dokumentacja* będzie tworzona w taki sam sposób, jak w **tym** repozytorium.
 Proszę poczytać [przystępną dokumentację języka markdown](https://guides.github.com/features/mastering-markdown).
